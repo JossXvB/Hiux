@@ -28,8 +28,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
  🤴🏻 Creador : 𝕯𝖎𝖝
  🌩️ Numero:  wa.me/+529931283775
- 💤 Adquirir : wa.me/+529931283775
  🔱 Ig : @Antt.AxD7
+ 💤 Adquirir : wa.me/+529931283775
+ 🔱 Ig : @Jnnfxrz.Day
+ 💤 Adquirir : wa.me/+573238765303
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}
