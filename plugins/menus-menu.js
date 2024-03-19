@@ -21,15 +21,15 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ𝐝𝐢𝐱-𝐡𝐮𝐢𝐭 BOT
+    const str = `ㅤㅤ𝕯𝖎𝖝-𝖍𝖚𝖎𝖙ㅤ𝕭𝖔𝖙 🕷 🇸🇾
 
  ▢ *Hola ,* ${taguser} este es el 𝐝𝐢𝐱-𝐡𝐮𝐢𝐭
 
  ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
- 🤴🏻 Creador : 𝙅𝙤𝙨𝙨 🤺
- 🌩️ Numero:  wa.me/56986469687
- 💤 Adquirir : wa.me/56986469687
- 🔱 Ig : @ancelzzz
+ 🤴🏻 Creador : 𝕯𝖎𝖝
+ 🌩️ Numero:  wa.me/+529931283775
+ 💤 Adquirir : wa.me/+529931283775
+ 🔱 Ig : @Antt.AxD7
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}
